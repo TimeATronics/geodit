@@ -218,7 +218,7 @@ int main(int, char**) {
 		
 		if(ImGui::BeginMainMenuBar()) {
 			if(ImGui::BeginMenu("File")) {
-				ImGui::MenuItem("Open File", NULL, &file_open_opt);
+				//ImGui::MenuItem("Open File", NULL, &file_open_opt);
 				ImGui::MenuItem("Exit", NULL, &exit_opt);
 				ImGui::EndMenu();
 			}
