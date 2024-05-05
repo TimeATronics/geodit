@@ -1,9 +1,9 @@
 Geodit: (GeoTIFF Viewer)
 
 Todo:
- - Display GeoTIFF file
+ - Display GeoTIFF file - Done
  - Pan, Crop, Zoom In/Out and change Brightness/Contrast/RGB color bands
- - Display Latitude/Longitude values via mouse hover
- - Display zoom scale
+ - Display Latitude/Longitude values via mouse hover - Done
+ - Display zoom scale - Done
  - Support shapefile creation from GeoTIFF
  - Support updation of GeoTIFF metadata using shapefile
