@@ -1,0 +1,5 @@
+PyQt5
+geopandas
+pandas
+rasterio
+shapely
